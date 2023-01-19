@@ -13,7 +13,7 @@
 - [Questions](#questions)
 
 ## Description:
-This is a text editor application created in the UW Coding Bootcamp. The text editor runs in a browser and can be installed on a computer.
+This is a text editor application created in the UW Coding Bootcamp. The text editor runs in a browser and can be installed on a computer. It utilizes webpack, service-worker, express, javascript, css, and html.
 
 ## Installation:
 - Front-end access at https://murmuring-garden-28398.herokuapp.com/ and click on the install button on that page
